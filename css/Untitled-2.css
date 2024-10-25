@@ -1,0 +1,76 @@
+
+h1 {
+    color: white;
+
+}
+
+p {
+    color:white;
+
+}
+img{
+    text-align: right;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+
+
+
+
+table {
+
+
+
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+
+}
+
+
+th, td {
+    border: 1px solid #dddddd;
+    padding: 12px;
+    text-align: left;
+}
+body {
+    margin: 2px;
+    padding: 2cm;
+
+}
+    
+body {
+    background-image:url(https://wallpapers.com/images/hd/logo-background-2riuuba5rmqkym8l.jpg);
+    background-image: linear-gradient(red, green, blue);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color:yellow;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.5 s;
+}
+.button:hover {
+    background-color: red;
+
+}
+
+
+
+
